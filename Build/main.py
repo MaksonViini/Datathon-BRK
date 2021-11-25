@@ -50,25 +50,44 @@ priority_rename = ['Ano',
                    ]
 
 
-def transform_datasets():
+def transform_datasets(path, arq) -> pd.DataFrame:
+    """[Transforma os datasets em um dataframe tratado]
+
+    Args:
+        path ([path]): [Caminho principal de cada dataset]
+        arq ([path]): [Nome de cada arquivo ex: 'municipios.csv']
+
+    Returns:
+        pd.DataFrame: [Salva um dataframe com os dados tratados]
+    """
+    # Trata os espacos em branco de cada coluna
     columns = []
     [columns.append(x.replace(' ', '_')) for x in priority_rename]
-    data = pd.read_excel(
-        '/home/maksonvinicio/Documents/GitHub/Datathon-BRK/Data/839_municipios_retornados/110011.xlsx', header=1,)
+    data = pd.read_excel(path, header=1,)
 
+    # Adiciona uma nova linha chamada municipio, para quando ela ser pivotada virar uma coluna de cada municipio
     data.loc[-1] = 'Município'
+    # Adiciona o nome do municipio em todas as colunas da ultima linha a partir da primeira coluna
     data.loc[-1][data.columns[1::]] = data.columns[0]
 
+    # Pivota toda a tabela
     data_pivot = data.T
+    # Seleciona o indice 0 como o nome das colunas
     data_pivot.columns = data_pivot.iloc[0, :]
+    # Reseta o index e dropa o primeiro indice que é o nome errado do municipio
     data_pivot = data_pivot.drop(data_pivot.index[0]).reset_index()
 
+    # Filtra as colunas com as features principais
     data_pivot = data_pivot[priority_columns]
+    # Renomeia as colunas
     data_pivot.columns = columns
+    # Adiciona o ano como coluna
     data_pivot['Ano'] = [2019, 2018, 2017, 2016,
                          2015, 2014, 2013, 2012, 2011, 2010]
-    data_pivot.to_csv('Data/110011.csv', index=False)
+    # Salva como excel em uma pasta, com o path do arquivo de cada arquivo lido pelo for
+    data_pivot.to_excel(
+        f'/home/maksonvinicio/Documents/GitHub/Datathon-BRK/Data/Municipios tratados/{arq}', index=False)
 
 
-if __name__ == '__main__':
-    transform_datasets()
+# if __name__ == '__main__':
+#     transform_datasets()
