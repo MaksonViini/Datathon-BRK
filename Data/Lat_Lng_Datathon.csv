@@ -1,0 +1,832 @@
+NOME MUNICIPIO,UF,CODIGO,LATITUDE,LONGITUDE
+Conde,PB,250460,-7.26,-34.9
+Lucena,PB,250860,-6.9,-34.86
+Bragança Paulista,SP,350760,-22.95,-46.54
+Caruaru,PE,260410,-8.28,-35.97
+Castanhal,PA,150240,-1.29,-47.92
+Teresópolis,RJ,330580,-22.41,-42.96
+Barbacena,MG,310560,-21.22,-43.77
+Inhaúma,MG,313100,-19.49,-44.38
+Viana,MA,211280,-3.22,-45
+Nossa Senhora do Socorro,SE,280480,-10.85,-37.12
+Senador Canedo,GO,522045,-16.7,-49.09
+Barcarena,PA,150130,-1.5,-48.62
+Aracaju,SE,280030,-10.91,-37.07
+São José dos Pinhais,PR,412550,-25.53,-49.2
+Ceará-Mirim,RN,240260,-5.63,-35.42
+Parnaíba,PI,220770,-2.9,-41.77
+Jangada,MT,510490,-15.23,-56.48
+Campos dos Goytacazes,RJ,330100,-21.75,-41.32
+Quixadá,CE,231130,-4.97,-39.01
+Pouso Alegre,MG,315250,-22.22,-45.93
+Piedade,SP,353780,-23.71,-47.42
+Altos,PI,220040,-5.03,-42.46
+Passos,MG,314790,-20.71,-46.61
+Vitória,ES,320530,-20.31,-40.33
+Maués,AM,130290,-3.38,-57.71
+São Sebastião do Paraíso,MG,316470,-20.91,-46.99
+Bom Jesus da Lapa,BA,290390,-13.25,-43.41
+Aquiraz,CE,230100,-3.9,-38.39
+Guararema,SP,351830,-23.41,-46.03
+Anápolis,GO,520110,-16.32,-48.95
+Gaspar,SC,420590,-26.93,-48.95
+Estância Velha,RS,430760,-29.64,-51.17
+São Pedro de Alcântara,SC,421725,-27.56,-48.8
+Jaú,SP,352530,-22.29,-48.55
+São Mateus,ES,320490,-18.71,-39.85
+São José da Varginha,MG,316310,-19.7,-44.55
+Nova Trento,SC,421150,-27.28,-48.93
+Três Lagoas,MS,500830,-20.75,-51.67
+Franco da Rocha,SP,351640,-23.32,-46.72
+Irati,PR,411070,-25.46,-50.65
+Camaçari,BA,290570,-12.69,-38.32
+Capão da Canoa,RS,430463,-29.76,-50.02
+Paripueira,AL,270644,-9.46,-35.55
+Paracambi,RJ,330360,-22.61,-43.7
+São Bento do Sul,SC,421580,-26.25,-49.37
+Sarzedo,MG,316553,-20.03,-44.14
+Nova Odessa,SP,353340,-22.77,-47.29
+Itupiranga,PA,150370,-5.13,-49.32
+Ponta Porã,MS,500660,-22.53,-55.72
+Lavras,MG,313820,-21.24,-45
+Araci,BA,290210,-11.33,-38.96
+Prudente de Morais,MG,315360,-19.48,-44.15
+Cuiabá,MT,510340,-15.59,-56.09
+Tailândia,PA,150795,-2.94,-48.95
+Apucarana,PR,410140,-23.55,-51.46
+Glorinha,RS,430905,-29.88,-50.76
+Barra do Piraí,RJ,330030,-22.46,-43.82
+São Leopoldo,RS,431870,-29.76,-51.14
+Janaúba,MG,313510,-15.8,-43.3
+Natal,RN,240810,-5.79,-35.2
+Sant'Ana do Livramento,RS,431710,-30.89,-55.53
+Guapimirim,RJ,330185,-22.53,-42.98
+Igarapé-Miri,PA,150330,-1.97,-48.95
+Mesquita,MG,314170,-19.22,-42.6
+Embu-Guaçu,SP,351510,-23.83,-46.81
+Sertãozinho,PB,251593,-6.75,-35.44
+Rio Grande da Serra,SP,354410,-23.74,-46.39
+Cerro Azul,PR,410520,-24.82,-49.26
+Penápolis,SP,353730,-21.42,-50.07
+Palmas,TO,172100,-10.16,-48.33
+Taquaritinga,SP,355370,-21.4,-48.5
+Codó,MA,210330,-4.45,-43.88
+Confins,MG,311787,-19.63,-43.98
+Moju,PA,150470,-1.88,-48.76
+Caldas Novas,GO,520450,-17.74,-48.62
+Moreno,PE,260940,-8.11,-35.09
+Cacoal,RO,110004,-11.43,-61.44
+Videira,SC,421930,-27,-51.15
+Itararé,SP,352320,-24.11,-49.34
+Montes Claros,MG,314330,-16.73,-43.86
+Valença,BA,293290,-13.36,-39.07
+Chapecó,SC,420420,-27.09,-52.61
+Alenquer,PA,150040,-1.94,-54.73
+Rio Preto da Eva,AM,130356,-2.69,-59.7
+Três Corações,MG,316930,-21.69,-45.25
+Pesqueira,PE,261090,-8.35,-36.69
+Itaperuçu,PR,411125,-25.21,-49.34
+Andradina,SP,350210,-20.89,-51.37
+São Lourenço da Mata,PE,261370,-8,-35.01
+Porto Feliz,SP,354060,-23.21,-47.52
+Fortuna de Minas,MG,312640,-19.56,-44.44
+Caieiras,SP,350900,-23.36,-46.74
+Muriaé,MG,314390,-21.13,-42.36
+Brumadinho,MG,310900,-20.14,-44.2
+Mineiros,GO,521310,-17.56,-52.55
+Leme,SP,352670,-22.18,-47.38
+Quatro Barras,PR,412080,-25.36,-49.07
+Ipixuna do Pará,PA,150345,-2.55,-47.49
+Óbidos,PA,150510,-1.91,-55.51
+Erechim,RS,430700,-27.63,-52.27
+Uberaba,MG,317010,-19.74,-47.93
+Cabo Frio,RJ,330070,-22.87,-42.01
+Arujá,SP,350390,-23.39,-46.32
+Acaraú,CE,230020,-2.88,-40.11
+Tianguá,CE,231340,-3.73,-40.99
+Itapeva,MG,313360,-22.76,-46.22
+Alcântara,MA,210020,-2.4,-44.41
+Vinhedo,SP,355670,-23.03,-46.97
+Fundão,ES,320220,-19.93,-40.4
+Monte Alegre,PA,150480,-2,-54.06
+Buriticupu,MA,210232,-4.34,-46.4
+Pato Branco,PR,411850,-26.22,-52.67
+Limoeiro,PE,260890,-7.87,-35.45
+Cambé,PR,410370,-23.27,-51.27
+Jaraguá do Sul,SC,420890,-26.48,-49.06
+Poá,SP,353980,-23.52,-46.34
+Bertioga,SP,350635,-23.85,-46.13
+Caicó,RN,240200,-6.45,-37.09
+Coroatá,MA,210360,-4.13,-44.12
+Guarabira,PB,250630,-6.85,-35.49
+Lajeado,TO,171200,-9.75,-48.35
+Nossa Senhora do Livramento,MT,510610,-15.77,-56.34
+Bonfim,RR,140015,3.35,-59.83
+Demerval Lobão,PI,220330,-5.35,-42.67
+Lapa,PR,411320,-25.77,-49.71
+Uruguaiana,RS,432240,-29.75,-57.08
+Arroio dos Ratos,RS,430110,-30.07,-51.72
+Varginha,MG,317070,-21.55,-45.43
+Frutal,MG,312710,-20.02,-48.94
+Conceição do Coité,BA,290840,-11.56,-39.28
+Paulo Afonso,BA,292400,-9.4,-38.22
+Picos,PI,220800,-7.07,-41.46
+Americana,SP,350160,-22.73,-47.33
+São Jerônimo,RS,431840,-29.95,-51.72
+Naviraí,MS,500570,-23.06,-54.19
+Mariana,MG,314000,-20.37,-43.41
+Mandirituba,PR,411430,-25.77,-49.32
+Canguçu,RS,430450,-31.39,-52.67
+Hortolândia,SP,351907,-22.85,-47.22
+Jandira,SP,352500,-23.52,-46.9
+Salgueiro,PE,261220,-8.06,-39.11
+Itaguaí,RJ,330200,-22.85,-43.77
+Trindade,PE,261560,-7.76,-40.26
+Itapetininga,SP,352230,-23.59,-48.05
+Maringá,PR,411520,-23.42,-51.93
+Japeri,RJ,330227,-22.64,-43.65
+Jaboatão dos Guararapes,PE,260790,-8.11,-35.01
+Cruz Alta,RS,430610,-28.63,-53.6
+Sapé,PB,251530,-7.09,-35.23
+Santa Luzia,MA,211000,-4.06,-45.68
+São Gonçalo do Amarante,CE,231240,-3.6,-38.96
+Jaru,RO,110011,-10.43,-62.46
+Eusébio,CE,230428,-3.89,-38.45
+Alagoinhas,BA,290070,-12.13,-38.41
+Camocim,CE,230260,-2.9,-40.84
+Vila Velha,ES,320520,-20.32,-40.29
+Taquara,RS,432120,-29.65,-50.78
+Barão de Melgaço,MT,510160,-16.27,-55.95
+Itapevi,SP,352250,-23.54,-46.93
+Barra,BA,290270,-11.08,-43.14
+Campo Alegre,AL,270140,-9.78,-36.35
+São José do Rio Pardo,SP,354970,-21.59,-46.88
+Nova Andradina,MS,500620,-22.23,-53.34
+Lorena,SP,352720,-22.73,-45.12
+Santo Ângelo,RS,431750,-28.29,-54.26
+Sousa,PB,251620,-6.76,-38.23
+Venâncio Aires,RS,432260,-29.6,-52.19
+Capim Branco,MG,311250,-19.54,-44.11
+Parobé,RS,431405,-29.62,-50.83
+Arcoverde,PE,260120,-8.41,-37.05
+Icó,CE,230540,-6.4,-38.86
+Cametá,PA,150210,-2.24,-49.49
+Itapira,SP,352260,-22.43,-46.82
+Pedro Leopoldo,MG,314930,-19.61,-44.04
+Sorriso,MT,510792,-12.54,-55.71
+Birigui,SP,350650,-21.28,-50.34
+Manhuaçu,MG,313940,-20.25,-42.03
+Juruti,PA,150390,-2.15,-56.09
+Barueri,SP,350570,-23.51,-46.87
+Ipirá,BA,291400,-12.15,-39.73
+Botucatu,SP,350750,-22.88,-48.44
+Dois Irmãos,RS,430640,-29.57,-51.08
+Crateús,CE,230410,-5.17,-40.67
+Rondonópolis,MT,510760,-16.47,-54.63
+Igarassu,PE,260680,-7.83,-34.9
+Primavera do Leste,MT,510704,-15.52,-54.34
+Igarapé,MG,313010,-20.06,-44.3
+Dom Eliseu,PA,150293,-4.28,-47.5
+Santa Cruz do Capibaribe,PE,261250,-7.95,-36.2
+Tijucas,SC,421800,-27.24,-48.63
+Caucaia,CE,230370,-3.73,-38.65
+Vera Cruz,RN,241480,-6.04,-35.42
+Pará de Minas,MG,314710,-19.86,-44.6
+Guaxupé,MG,312870,-21.3,-46.71
+Juazeiro,BA,291840,-9.41,-40.5
+Registro,SP,354260,-24.48,-47.84
+Águas Lindas de Goiás,GO,520025,-15.76,-48.28
+Casa Nova,BA,290720,-9.16,-40.97
+Campo Formoso,BA,290600,-10.5,-40.32
+São Bernardo do Campo,SP,354870,-23.69,-46.56
+Esteio,RS,430770,-29.86,-51.17
+Sobral,CE,231290,-3.67,-40.23
+Vacaria,RS,432250,-28.51,-50.93
+Atibaia,SP,350410,-23.11,-46.54
+José de Freitas,PI,220550,-4.75,-42.57
+Horizonte,CE,230523,-4.09,-38.49
+Pelotas,RS,431440,-31.77,-52.34
+Serra,ES,320500,-20.12,-40.3
+Niterói,RJ,330330,-22.88,-43.1
+Sinop,MT,510790,-11.86,-55.5
+Itapema,SC,420830,-27.09,-48.61
+Rio das Ostras,RJ,330452,-22.52,-41.94
+Cosmópolis,SP,351280,-22.64,-47.19
+União,PI,221110,-4.58,-42.86
+Dias d'Ávila,BA,291005,-12.61,-38.29
+Baldim,MG,310500,-19.28,-43.95
+Morada Nova,CE,230870,-5.1,-38.37
+Leopoldina,MG,313840,-21.53,-42.64
+São Sebastião,AL,270880,-9.93,-36.55
+Mário Campos,MG,314015,-20.05,-44.18
+Ariquemes,RO,110002,-9.91,-63.04
+Diadema,SP,351380,-23.68,-46.62
+Pirapora do Bom Jesus,SP,353910,-23.39,-47
+Nilópolis,RJ,330320,-22.8,-43.41
+Taubaté,SP,355410,-23.02,-45.55
+Araricá,RS,430087,-29.61,-50.92
+Portel,PA,150580,-1.93,-50.82
+Maranguape,CE,230770,-3.89,-38.68
+Araguari,MG,310350,-18.64,-48.18
+Rancho Queimado,SC,421430,-27.67,-49.02
+Barra de Santo Antônio,AL,270050,-9.4,-35.5
+Francisco Morato,SP,351630,-23.28,-46.74
+Barreirinhas,MA,210170,-2.74,-42.82
+Nova Iguaçu,RJ,330350,-22.75,-43.45
+Parintins,AM,130340,-2.62,-56.73
+Catu,BA,290750,-12.35,-38.37
+Ibirité,MG,312980,-20.02,-44.05
+Salvador,BA,292740,-12.97,-38.51
+Gravatá,PE,260640,-8.2,-35.56
+Novo Airão,AM,130320,-2.62,-60.94
+Águas Mornas,SC,420060,-27.69,-48.82
+Moeda,MG,314230,-20.33,-44.05
+Santana,AP,160060,-0.05,-51.18
+Uberlândia,MG,317020,-18.91,-48.27
+Vargem Grande Paulista,SP,355645,-23.6,-47.02
+Campo Limpo Paulista,SP,350960,-23.2,-46.78
+Umuarama,PR,412810,-23.76,-53.32
+Mogi Guaçu,SP,353070,-22.37,-46.94
+São João da Boa Vista,SP,354910,-21.96,-46.79
+Pinhais,PR,411915,-25.44,-49.19
+Sorocaba,SP,355220,-23.5,-47.45
+Santo André,PB,251385,-7.21,-36.63
+Congonhas,MG,311800,-20.5,-43.85
+Limeira,SP,352690,-22.56,-47.4
+Itatiba,SP,352340,-23,-46.83
+Bacabal,MA,210120,-4.22,-44.77
+Camaquã,RS,430350,-30.85,-51.81
+Cáceres,MT,510250,-16.07,-57.67
+Chapadinha,MA,210320,-3.74,-43.36
+Fazenda Rio Grande,PR,410765,-25.65,-49.3
+Vilhena,RO,110030,-12.74,-60.14
+Cachoeiro de Itapemirim,ES,320120,-20.84,-41.11
+Belford Roxo,RJ,330045,-22.76,-43.39
+Cataguases,MG,311530,-21.38,-42.69
+Balsas,MA,210140,-7.53,-46.03
+Embu das Artes,SP,351500,-23.64,-46.85
+Jundiaí,SP,352590,-23.18,-46.88
+Rio Branco,AC,120040,-9.97,-67.8
+Petrópolis,RJ,330390,-22.5,-43.17
+Juiz de Fora,MG,313670,-21.76,-43.34
+Rio Grande,RS,431560,-32.03,-52.09
+Macaé,RJ,330240,-22.37,-41.78
+Ferraz de Vasconcelos,SP,351570,-23.54,-46.36
+Biritiba-Mirim,SP,350660,-23.57,-46.03
+Ubatuba,SP,355540,-23.43,-45.07
+Catanduva,SP,351110,-21.13,-48.97
+Caraguatatuba,SP,351050,-23.62,-45.41
+São Joaquim de Bicas,MG,316292,-20.04,-44.27
+Bagé,RS,430160,-31.33,-54.1
+Belém,PA,150140,-1.45,-48.5
+Charqueadas,RS,430535,-29.95,-51.62
+Santos,SP,354850,-23.96,-46.33
+Araxá,MG,310400,-19.59,-46.94
+Canelinha,SC,420370,-27.26,-48.76
+Santa Bárbara do Pará,PA,150635,-1.22,-48.29
+São Gabriel,BA,292925,-11.22,-41.91
+Maceió,AL,270430,-9.66,-35.73
+Paragominas,PA,150550,-2.99,-47.35
+São Vicente,RN,241300,-6.21,-36.68
+São Lourenço da Serra,SP,354995,-23.85,-46.94
+Canoinhas,SC,420380,-26.17,-50.38
+Marechal Cândido Rondon,PR,411460,-24.55,-54.05
+Timon,MA,211220,-5.09,-42.83
+Xanxerê,SC,421950,-26.87,-52.4
+Sarandi,PR,412625,-23.44,-51.87
+Madre de Deus,BA,291992,-12.74,-38.62
+Porto Nacional,TO,171820,-10.7,-48.41
+Coqueiro Seco,AL,270220,-9.63,-35.8
+Biguaçu,SC,420230,-27.49,-48.65
+Abadia de Goiás,GO,520005,-16.75,-49.43
+Divinópolis,MG,312230,-20.13,-44.88
+Jacobina,BA,291750,-11.18,-40.51
+Santo Estêvão,BA,292880,-12.43,-39.25
+Catalão,GO,520510,-18.17,-47.94
+Cascavel,CE,230350,-4.13,-38.23
+Palmeira dos Índios,AL,270630,-9.4,-36.62
+Brasília,DF,530010,-15.77,-47.93
+Alegrete,RS,430040,-29.78,-55.79
+Contagem,MG,311860,-19.93,-44.05
+Tijucas do Sul,PR,412760,-25.92,-49.19
+Araguaína,TO,170210,-7.19,-48.2
+Surubim,PE,261450,-7.83,-35.75
+Santo Antônio do Leverger,MT,510780,-15.86,-56.07
+Presidente Prudente,SP,354140,-22.12,-51.38
+Tobias Barreto,SE,280740,-11.18,-37.99
+Mongaguá,SP,353110,-24.08,-46.62
+Nova Lima,MG,314480,-19.98,-43.84
+Taboão da Serra,SP,355280,-23.6,-46.75
+Monte Mor,SP,353180,-22.94,-47.31
+Ubá,MG,316990,-21.12,-42.94
+Rio Verde,GO,521880,-17.79,-50.92
+Triunfo,PB,251680,-6.57,-38.59
+Campo Largo,PR,410420,-25.45,-49.52
+Duque de Caxias,RJ,330170,-22.78,-43.31
+Grajaú,MA,210480,-5.81,-46.13
+Ijuí,RS,431020,-28.38,-53.91
+Rio Bonito,RJ,330430,-22.7,-42.62
+Valparaíso de Goiás,GO,522185,-16.06,-47.97
+Viamão,RS,432300,-30.08,-51.02
+Itumbiara,GO,521150,-18.42,-49.21
+Santo Amaro da Imperatriz,SC,421570,-27.68,-48.77
+Jaguaquara,BA,291760,-13.53,-39.97
+Beberibe,CE,230220,-4.17,-38.13
+Lençóis Paulista,SP,352680,-22.59,-48.79
+Santo Amaro,BA,292860,-12.54,-38.71
+Corumbá,MS,500320,-18.5,-54.75
+Sapucaia do Sul,RS,432000,-29.83,-51.14
+Assis,SP,350400,-22.66,-50.41
+Resende,RJ,330420,-22.46,-44.44
+Mogi das Cruzes,SP,353060,-23.52,-46.18
+Pinheiro,MA,210860,-2.52,-45.08
+Alvorada,TO,170070,-12.47,-49.12
+Novo Hamburgo,RS,431340,-29.67,-51.13
+Cachoeirinha,TO,170382,-6.12,-47.92
+Mateus Leme,MG,314070,-19.98,-44.42
+São Francisco,PB,251398,-6.61,-38.09
+Rio de Janeiro,RJ,330455,-22.9,-43.2
+São Bonifácio,SC,421590,-27.9,-48.92
+Estância,SE,280210,-11.26,-37.43
+Queimados,RJ,330414,-22.71,-43.55
+Itaguara,MG,313220,-20.39,-44.48
+Cachoeira do Sul,RS,430300,-30.03,-52.89
+Várzea Paulista,SP,355650,-23.21,-46.82
+São José dos Campos,SP,354990,-23.17,-45.88
+Agudos do Sul,PR,410030,-25.99,-49.33
+Maricá,RJ,330270,-22.91,-42.81
+Barra Mansa,RJ,330040,-22.54,-44.17
+Ilhéus,BA,291360,-14.78,-39.04
+Irecê,BA,291460,-11.3,-41.85
+Rosário Oeste,MT,510770,-14.83,-56.42
+Pindamonhangaba,SP,353800,-22.92,-45.46
+Limoeiro do Norte,CE,230760,-5.14,-38.09
+Itaquaquecetuba,SP,352310,-23.48,-46.34
+Ponte Nova,MG,315210,-20.41,-42.9
+Capitão Poço,PA,150230,-1.74,-47.06
+Rolim de Moura,RO,110028,-11.73,-61.77
+Indaial,SC,420750,-26.89,-49.23
+Itapissuma,PE,260775,-7.77,-34.89
+Goianésia,GO,520860,-15.31,-49.11
+Eldorado do Sul,RS,430676,-30.08,-51.61
+Carpina,PE,260400,-7.85,-35.25
+Barra de São Miguel,PB,250170,-7.75,-36.31
+Alfredo Wagner,SC,420070,-27.7,-49.33
+Pau D'Arco do Piauí,PI,220779,-5.26,-42.39
+Paranavaí,PR,411840,-23.07,-52.46
+São Carlos,SP,354890,-22.01,-47.89
+Pirassununga,SP,353930,-21.99,-47.42
+Pirapora,MG,315120,-17.34,-44.94
+Macaíba,RN,240710,-5.85,-35.35
+Dourados,MS,500370,-22.22,-54.8
+Formosa,GO,520800,-15.53,-47.33
+Campo Belo,MG,311120,-20.89,-45.27
+Delmiro Gouveia,AL,270240,-9.38,-37.99
+Bom Despacho,MG,310740,-19.73,-45.25
+Matão,SP,352930,-21.6,-48.36
+Betim,MG,310670,-19.96,-44.19
+Caldazinha,GO,520455,-16.71,-49
+Extremoz,RN,240360,-5.7,-35.3
+Ibitinga,SP,351960,-21.75,-48.82
+Adrianópolis,PR,410020,-24.65,-48.99
+Araranguá,SC,420140,-28.93,-49.48
+Almirante Tamandaré,PR,410040,-25.32,-49.31
+Lauro de Freitas,BA,291920,-12.89,-38.32
+Nova Veneza,SC,421160,-28.63,-49.49
+Guarujá,SP,351870,-23.99,-46.25
+Luziânia,GO,521250,-16.25,-47.95
+Campo Magro,PR,410425,-25.36,-49.45
+Araçoiaba,PE,260105,-7.78,-35.09
+Mauá,SP,352940,-23.66,-46.46
+Patos de Minas,MG,314800,-18.57,-46.51
+Brejo da Madre de Deus,PE,260260,-8.14,-36.37
+Feira de Santana,BA,291080,-12.26,-38.96
+Barra dos Coqueiros,SE,280060,-10.9,-37.03
+Gurupi,TO,170950,-11.72,-49.06
+Bayeux,PB,250180,-7.12,-34.93
+Artur Nogueira,SP,350380,-22.57,-47.17
+São João de Meriti,RJ,330510,-22.8,-43.37
+Arapongas,PR,410150,-23.41,-51.42
+Brusque,SC,420290,-27.09,-48.91
+Patrocínio,MG,314810,-18.94,-46.99
+Abreu e Lima,PE,260005,-7.91,-34.9
+São Miguel do Guamá,PA,150760,-1.62,-47.48
+Itupeva,SP,352400,-23.15,-47.05
+Campo Mourão,PR,410430,-24.04,-52.38
+Viçosa,RN,241490,-5.99,-37.94
+Lagoa Santa,MG,313760,-19.62,-43.88
+Santo Antônio de Jesus,BA,292870,-12.96,-39.26
+Guarapuava,PR,410940,-25.39,-51.45
+Tupã,SP,355500,-21.93,-50.51
+Seropédica,RJ,330555,-22.74,-43.7
+João Monlevade,MG,313620,-19.8,-43.17
+Barra do Corda,MA,210160,-5.5,-45.24
+Içara,SC,420700,-28.71,-49.29
+Campos do Jordão,SP,350970,-22.73,-45.59
+Manacapuru,AM,130250,-3.29,-60.62
+Miguel Leão,PI,220630,-5.68,-42.73
+Tatuí,SP,355400,-23.35,-47.85
+Recife,PE,261160,-8.05,-34.88
+Pilar,PB,251150,-7.26,-35.25
+Itacoatiara,AM,130190,-3.14,-58.44
+União da Vitória,PR,412820,-26.22,-51.08
+Itu,SP,352390,-23.26,-47.29
+Paulista,PB,251090,-6.59,-37.62
+Sete Lagoas,MG,316720,-19.46,-44.24
+São Roque,SP,355060,-23.52,-47.13
+Imperatriz,MA,210530,-5.52,-47.47
+Ribeira do Pombal,BA,292660,-10.83,-38.53
+Piripiri,PI,220840,-4.27,-41.77
+Santa Inês,MA,210990,-3.66,-45.38
+Cruzeiro do Sul,AC,120020,-7.63,-72.66
+Novo Gama,GO,521523,-16.05,-48.03
+Carazinho,RS,430470,-28.28,-52.78
+Nova Santa Rita,PI,220795,-8.08,-42.05
+Monte Alto,SP,353130,-21.26,-48.49
+Cachoeiras de Macacu,RJ,330080,-22.46,-42.65
+Coruripe,AL,270230,-10.12,-36.17
+Penedo,AL,270670,-10.28,-36.58
+Santarém,PA,150680,-2.44,-54.7
+Iguatu,CE,230550,-6.35,-39.29
+Campo Bom,RS,430390,-29.67,-51.05
+Caxias do Sul,RS,430510,-29.16,-51.17
+Nerópolis,GO,521450,-16.4,-49.21
+Araripina,PE,260110,-7.57,-40.49
+Balsa Nova,PR,410230,-25.58,-49.63
+Florestal,MG,312600,-19.88,-44.43
+Lagarto,SE,280350,-10.91,-37.65
+Aragoiânia,GO,520180,-16.91,-49.45
+Itapajé,CE,230630,-3.68,-39.58
+Porto Alegre,RS,431490,-30.03,-51.22
+Curitiba,PR,410690,-25.42,-49.27
+Foz do Iguaçu,PR,410830,-25.54,-54.58
+Alfenas,MG,310160,-21.42,-45.94
+Canindé,CE,230280,-4.35,-39.31
+Boa Viagem,CE,230240,-5.12,-39.73
+Marechal Deodoro,AL,270470,-9.71,-35.89
+Parnamirim,RN,240325,-5.91,-35.26
+Mata de São João,BA,292100,-12.52,-38.29
+Leoberto Leal,SC,420980,-27.5,-49.28
+Ananindeua,PA,150080,-1.36,-48.37
+São Caetano do Sul,SP,354880,-23.62,-46.55
+Cubatão,SP,351350,-23.89,-46.42
+Cianorte,PR,410550,-23.66,-52.6
+Magé,RJ,330250,-22.65,-43.04
+Goianira,GO,520880,-16.49,-49.42
+São Pedro da Aldeia,RJ,330520,-22.83,-42.1
+Palhoça,SC,421190,-27.64,-48.66
+Quixeramobim,CE,231140,-5.19,-39.29
+Nova Hartz,RS,431306,-29.58,-50.9
+João Pessoa,PB,250750,-7.11,-34.86
+Valinhos,SP,355620,-22.97,-46.99
+Satuba,AL,270890,-9.56,-35.82
+Rio Manso,MG,315530,-20.26,-44.3
+Mirassol,SP,353030,-20.81,-49.52
+Olinda,PE,260960,-8,-34.85
+Amparo,PB,250073,-7.56,-37.06
+Pacajus,CE,230960,-4.17,-38.46
+Campina Grande,PB,250400,-7.23,-35.88
+Santana de Parnaíba,SP,354730,-23.44,-46.91
+Vespasiano,MG,317120,-19.69,-43.92
+Passo Fundo,RS,431410,-28.26,-52.4
+Rio Branco do Sul,PR,412220,-25.19,-49.31
+Anitápolis,SC,420110,-27.9,-49.12
+Funilândia,MG,312720,-19.36,-44.05
+Mococa,SP,353050,-21.46,-47
+Ipojuca,PE,260720,-8.39,-35.06
+Nísia Floresta,RN,240820,-6.09,-35.2
+Paranaguá,PR,411820,-25.52,-48.5
+Porto Ferreira,SP,354070,-21.85,-47.47
+Teófilo Otoni,MG,316860,-17.85,-41.5
+Araucária,PR,410180,-25.59,-49.4
+Arapiraca,AL,270030,-9.75,-36.66
+Luís Eduardo Magalhães,BA,291955,-12.09,-45.8
+Nova União,RO,110143,-10.9,-62.56
+Boa Vista,RR,140010,2.81,-60.67
+Contenda,PR,410620,-25.67,-49.53
+Lins,SP,352710,-21.67,-49.74
+São Luís,MA,211130,-2.52,-44.3
+Caçador,SC,420300,-26.77,-51.01
+Itaberaba,BA,291470,-12.52,-40.3
+Conselheiro Lafaiete,MG,311830,-20.65,-43.78
+Itajubá,MG,313240,-22.42,-45.45
+Boituva,SP,350700,-23.28,-47.67
+Portão,RS,431480,-29.7,-51.24
+Itaboraí,RJ,330190,-22.74,-42.85
+Patos,PB,251080,-7.02,-37.27
+Guaíba,RS,430930,-30.11,-51.32
+Caaporã,PB,250300,-7.51,-34.9
+São Bento do Una,PE,261300,-8.52,-36.44
+Indaiatuba,SP,352050,-23.09,-47.21
+Bento Gonçalves,RS,430210,-29.17,-51.51
+Mamanguape,PB,250890,-6.83,-35.12
+Fernandópolis,SP,351550,-20.28,-50.24
+Volta Redonda,RJ,330630,-22.52,-44.1
+Maracanaú,CE,230765,-3.87,-38.62
+Santa Cruz do Sul,RS,431680,-29.71,-52.42
+Votorantim,SP,355700,-23.54,-47.43
+Altamira,PA,150060,-3.2,-52.2
+Mafra,SC,421010,-26.11,-49.8
+Ponta Grossa,PR,411990,-25.09,-50.16
+Prudentópolis,PR,412060,-25.21,-50.97
+Itapecuru Mirim,MA,210540,-3.39,-44.35
+Ibiporã,PR,410980,-23.26,-51.04
+Macapá,AP,160030,0.03,-51.06
+Curvelo,MG,312090,-18.75,-44.43
+São Francisco do Conde,BA,292920,-12.62,-38.68
+Bocaiúva do Sul,PR,410310,-25.2,-49.11
+Itabuna,BA,291480,-14.78,-39.27
+Bezerros,PE,260190,-8.23,-35.79
+Belo Horizonte,MG,310620,-19.81,-43.95
+Porto Seguro,BA,292530,-16.45,-39.06
+Capela de Santana,RS,430468,-29.7,-51.32
+Manaus,AM,130260,-3.1,-60.02
+Jequié,BA,291800,-13.85,-40.08
+Caçapava,SP,350850,-23.1,-45.7
+Humaitá,AM,130170,-7.5,-63.02
+Tomé-Açu,PA,150800,-2.41,-48.15
+São José da Lapa,MG,316295,-19.7,-43.95
+Araraquara,SP,350320,-21.79,-48.17
+Pacatuba,CE,230970,-3.98,-38.61
+Trairi,CE,231350,-3.27,-39.26
+Granja,CE,230470,-3.11,-40.82
+Pitimbu,PB,251190,-7.47,-34.8
+Ribeirão Preto,SP,354340,-21.17,-47.81
+Telêmaco Borba,PR,412710,-24.32,-50.61
+Paudalho,PE,261060,-7.89,-35.18
+Itaparica,BA,291610,-12.88,-38.67
+Santo Antônio do Descoberto,GO,521975,-15.93,-48.25
+Ribeirão Pires,SP,354330,-23.71,-46.41
+São Paulo,SP,355030,-23.54,-46.63
+Tauá,CE,231330,-6,-40.29
+Angelina,SC,420090,-27.56,-48.98
+Jacundá,PA,150380,-4.45,-49.11
+Terezópolis de Goiás,GO,522119,-16.39,-49.08
+Salto,SP,354520,-23.2,-47.28
+Mogi Mirim,SP,353080,-22.43,-46.95
+Bauru,SP,350600,-22.31,-49.06
+Cotia,SP,351300,-23.6,-46.91
+Barbalha,CE,230190,-7.3,-39.3
+Viseu,PA,150830,-1.19,-46.13
+Florianópolis,SC,420540,-27.59,-48.54
+União dos Palmares,AL,270930,-9.16,-36.03
+Belo Jardim,PE,260170,-8.33,-36.42
+Piraquara,PR,411950,-25.44,-49.06
+Rio do Sul,SC,421480,-27.21,-49.64
+Santo Antônio de Goiás,GO,521973,-16.48,-49.31
+Juazeiro do Norte,CE,230730,-7.21,-39.31
+Itaitinga,CE,230625,-3.96,-38.52
+Gravataí,RS,430920,-29.94,-50.99
+Bela Vista de Goiás,GO,520330,-16.97,-48.95
+Tucano,BA,293190,-10.96,-38.78
+Acopiara,CE,230030,-6.09,-39.45
+Goiânia,GO,520870,-16.67,-49.25
+Jacareí,SP,352440,-23.3,-45.96
+Guapó,GO,520920,-16.83,-49.53
+Paço do Lumiar,MA,210750,-2.53,-44.1
+Serra Talhada,PE,261390,-7.98,-38.29
+Guaiúba,CE,230495,-4.03,-38.63
+Abaetetuba,PA,150010,-1.71,-48.88
+São Gonçalo,RJ,330490,-22.82,-43.05
+Redenção,PA,150613,-8.02,-50.03
+Praia Grande,SP,354100,-24,-46.4
+Ourinhos,SP,353470,-22.97,-49.87
+Blumenau,SC,420240,-26.91,-49.06
+Monsenhor Gil,PI,220640,-5.56,-42.6
+Criciúma,SC,420460,-28.67,-49.36
+Itabira,MG,313170,-19.61,-43.22
+Crato,CE,230420,-7.23,-39.4
+Sapiranga,RS,431990,-29.63,-51
+Balneário Camboriú,SC,420200,-26.99,-48.63
+Tubarão,SC,421870,-28.46,-49
+São José do Rio Preto,SP,354980,-20.81,-49.37
+São Borja,RS,431800,-28.66,-56
+Açu,RN,240020,-5.57,-36.9
+Formiga,MG,312610,-20.46,-45.42
+Três Rios,RJ,330600,-22.11,-43.2
+Inhumas,GO,521000,-16.35,-49.49
+Timbaúba,PE,261530,-7.5,-35.31
+Saquarema,RJ,330550,-22.92,-42.5
+Jataí,GO,521190,-17.88,-51.71
+Oriximiná,PA,150530,-1.76,-55.86
+Salesópolis,SP,354500,-23.53,-45.84
+Araras,SP,350330,-22.35,-47.38
+Tanguá,RJ,330575,-22.72,-42.71
+Franca,SP,351620,-20.53,-47.4
+Tunas do Paraná,PR,412788,-24.97,-49.08
+Eunápolis,BA,291072,-16.37,-39.58
+Unaí,MG,317040,-16.35,-46.9
+Planalto da Serra,MT,510645,-14.65,-54.77
+Canoas,RS,430460,-29.91,-51.18
+Teresina,PI,221100,-5.08,-42.8
+Parauapebas,PA,150553,-6.06,-49.9
+Itabaiana,PB,250690,-7.32,-35.33
+Bragança,PA,150170,-1.06,-46.77
+Quitandinha,PR,412120,-25.87,-49.49
+Esmeraldas,MG,312410,-19.76,-44.31
+São Cristóvão,SE,280670,-11.01,-37.2
+Linhares,ES,320320,-19.39,-40.07
+Francisco Beltrão,PR,410840,-26.08,-53.05
+Ipatinga,MG,313130,-19.46,-42.53
+Castro,PR,410490,-24.79,-50.01
+Tangará da Serra,MT,510795,-14.61,-57.48
+Itapipoca,CE,230640,-3.49,-39.57
+Aracati,CE,230110,-4.56,-37.77
+Antônio Carlos,MG,310290,-21.31,-43.74
+Matozinhos,MG,314110,-19.55,-44.08
+Sabará,MG,315670,-19.88,-43.8
+Pedras de Fogo,PB,251120,-7.4,-35.11
+Nova Friburgo,RJ,330340,-22.28,-42.53
+Cruz das Almas,BA,290980,-12.67,-39.1
+Jaboticabal,SP,352430,-21.25,-48.32
+Poconé,MT,510650,-16.25,-56.62
+Sidrolândia,MS,500790,-20.93,-54.96
+Manicoré,AM,130270,-5.8,-61.29
+Aparecida de Goiânia,GO,520140,-16.82,-49.24
+Mairiporã,SP,352850,-23.31,-46.58
+Careiro da Várzea,AM,130115,-3.22,-59.82
+Capanema,PA,150220,-1.19,-47.18
+Zé Doca,MA,211400,-3.24,-45.82
+Itajaí,SC,420820,-26.9,-48.66
+Ji-Paraná,RO,110012,-10.88,-61.94
+Ivoti,RS,431080,-29.59,-51.16
+Cabedelo,PB,250320,-6.98,-34.83
+Floriano,PI,220390,-6.76,-43.02
+Fortaleza,CE,230440,-3.71,-38.54
+Itabirito,MG,313190,-20.25,-43.8
+Guaratinguetá,SP,351840,-22.81,-45.19
+Paulínia,SP,353650,-22.76,-47.15
+Piracicaba,SP,353870,-22.72,-47.64
+Nova Serrana,MG,314520,-19.87,-44.98
+Vigia,PA,150820,-0.85,-48.14
+Mossoró,RN,240800,-5.18,-37.34
+Ribeirão das Neves,MG,315460,-19.76,-44.08
+Lagoa Alegre,PI,220555,-4.51,-42.62
+Barão de Cocais,MG,310540,-19.94,-43.48
+Nova Brasilândia,MT,510620,-14.95,-54.96
+Santa Bárbara d'Oeste,SP,354580,-22.75,-47.41
+São Félix do Xingu,PA,150730,-6.64,-51.99
+Paulo Lopes,SC,421230,-27.96,-48.68
+Rio Claro,RJ,330440,-22.72,-44.13
+Campinas,SP,350950,-22.9,-47.06
+Tucuruí,PA,150810,-3.76,-49.67
+Caeté,MG,311000,-19.87,-43.66
+Governador Valadares,MG,312770,-18.85,-41.94
+Hidrolândia,CE,230520,-4.4,-40.43
+Caratinga,MG,311340,-19.79,-42.13
+Cidade Ocidental,GO,520549,-16.07,-47.92
+Juatuba,MG,313665,-19.95,-44.34
+Camboriú,SC,420320,-27.02,-48.65
+Santa Luzia do Norte,AL,270790,-9.6,-35.82
+Cruz do Espírito Santo,PB,250490,-7.13,-35.08
+Rolândia,PR,412240,-23.3,-51.36
+Marabá,PA,150420,-5.36,-49.11
+Novo Repartimento,PA,150506,-4.33,-49.79
+Garopaba,SC,420570,-28.02,-48.61
+Três Pontas,MG,316940,-21.36,-45.51
+Itamaraju,BA,291560,-17.03,-39.53
+Serrinha,RN,241350,-6.27,-35.49
+Vitória de Santo Antão,PE,261640,-8.11,-35.29
+Russas,CE,231180,-4.94,-37.97
+Caturaí,GO,520520,-16.44,-49.49
+Barra do Garças,MT,510180,-15.89,-52.25
+Barretos,SP,350550,-20.55,-48.56
+Doutor Ulysses,PR,412863,-24.56,-49.41
+Londrina,PR,411370,-23.3,-51.16
+Navegantes,SC,421130,-26.89,-48.65
+Teixeira de Freitas,BA,293135,-17.53,-39.74
+Sumaré,SP,355240,-22.82,-47.26
+Senhor do Bonfim,BA,293010,-10.46,-40.19
+Cruzeiro,SP,351340,-22.57,-44.96
+Alta Floresta,MT,510025,-9.87,-56.08
+Jaboticatubas,MG,313460,-19.51,-43.74
+Colombo,PR,410580,-25.29,-49.22
+Suzano,SP,355250,-23.54,-46.31
+Toledo,MG,316910,-22.74,-46.37
+Osasco,SP,353440,-23.53,-46.79
+Breves,PA,150180,-1.68,-50.47
+Batatais,SP,350590,-20.89,-47.58
+Santa Rita,MA,211020,-3.14,-44.32
+Januária,MG,313520,-15.48,-44.36
+São Miguel dos Campos,AL,270860,-9.78,-36.09
+Guarulhos,SP,351880,-23.46,-46.53
+Lucas do Rio Verde,MT,510525,-13.05,-55.91
+Paraíso do Tocantins,TO,171610,-10.17,-48.86
+Santo Antônio da Patrulha,RS,431760,-29.81,-50.52
+Goianápolis,GO,520840,-16.51,-49.02
+Benevides,PA,150150,-1.36,-48.24
+Itaperuna,RJ,330220,-21.2,-41.88
+Paracatu,MG,314700,-17.22,-46.87
+Cabo de Santo Agostinho,PE,260290,-8.28,-35.03
+Raposos,MG,315390,-19.96,-43.8
+Simões Filho,BA,293070,-12.78,-38.4
+Várzea Grande,PI,221140,-6.54,-42.24
+Cajamar,SP,350920,-23.35,-46.87
+São Joaquim da Barra,SP,354940,-20.58,-47.85
+São José,SC,421660,-27.61,-48.62
+Cariacica,ES,320130,-20.26,-40.41
+Aracruz,ES,320060,-19.81,-40.27
+São João del Rei,MG,316250,-21.13,-44.26
+Itanhaém,SP,352210,-24.18,-46.78
+Carapicuíba,SP,351060,-23.52,-46.83
+Poços de Caldas,MG,315180,-21.78,-46.56
+Garanhuns,PE,260600,-8.89,-36.49
+Lagoa da Prata,MG,313720,-20.02,-45.54
+São Sebastião do Passé,BA,292950,-12.51,-38.49
+Santa Izabel do Pará,PA,150650,-1.29,-48.16
+Itapecerica da Serra,SP,352220,-23.71,-46.84
+Pojuca,BA,292520,-12.43,-38.32
+Acará,PA,150020,-1.96,-48.19
+Pindoretama,CE,231085,-4.02,-38.3
+Coronel Fabriciano,MG,311940,-19.51,-42.62
+Rio Tinto,PB,251290,-6.8,-35.08
+Taquaraçu de Minas,MG,316830,-19.67,-43.68
+Avaré,SP,350450,-23.09,-48.92
+Buíque,PE,260280,-8.62,-37.15
+Santa Maria,RN,240933,-5.84,-35.69
+Capivari,SP,351040,-22.99,-47.5
+Planaltina,GO,521760,-15.45,-47.61
+Tefé,AM,130420,-3.35,-64.71
+Brumado,BA,290460,-14.2,-41.66
+Bonfinópolis,GO,520355,-16.61,-48.96
+Tramandaí,RS,432160,-29.98,-50.13
+Coivaras,PI,220273,-5.09,-42.2
+Açailândia,MA,210005,-4.94,-47.5
+Chorozinho,CE,230395,-4.3,-38.49
+Nazária,PI,220672,-5.35,-42.81
+Caetité,BA,290520,-14.06,-42.47
+Rondon do Pará,PA,150618,-4.77,-48.06
+Olímpia,SP,353390,-20.73,-48.91
+Belo Vale,MG,310640,-20.4,-44.02
+Cristalina,GO,520620,-16.76,-47.61
+Jaguariúna,SP,352470,-22.7,-46.98
+Guanambi,BA,291170,-14.22,-42.78
+Marília,SP,352900,-22.21,-49.94
+Goiana,PE,260620,-7.56,-35
+Curralinhos,PI,220325,-5.58,-42.77
+São Francisco do Sul,SC,421620,-26.24,-48.63
+Ituiutaba,MG,313420,-18.96,-49.46
+Raposa,MA,210945,-2.42,-44.1
+Caxias,MA,210300,-4.85,-43.35
+Escada,PE,260520,-8.35,-35.22
+Peruíbe,SP,353760,-24.31,-46.99
+Santana do Araguaia,PA,150670,-9.5,-50.62
+Euclides da Cunha,BA,291070,-10.5,-39.01
+Porto Velho,RO,110020,-8.76,-63.9
+Ouricuri,PE,260990,-7.88,-40.08
+Santa Isabel,SP,354680,-23.31,-46.22
+Rio Largo,AL,270770,-9.47,-35.85
+Ulianópolis,PA,150812,-3.75,-47.5
+Viçosa do Ceará,CE,231410,-3.56,-41.09
+Presidente Figueiredo,AM,130353,-2.03,-60.02
+Vargem Grande,MA,211270,-3.54,-43.91
+Cajazeiras,PB,250370,-6.88,-38.56
+Ilha de Itamaracá,PE,260760,-7.74,-34.82
+Camaragibe,PE,260345,-8.02,-34.98
+Timóteo,MG,316870,-19.58,-42.64
+Guarapari,ES,320240,-20.65,-40.51
+São João Batista,MA,211100,-2.95,-44.8
+São José de Ribamar,MA,211120,-2.56,-44.05
+Montenegro,RS,431240,-29.68,-51.46
+Major Gercino,SC,421020,-27.41,-48.95
+Itapetinga,BA,291640,-15.24,-40.24
+Farroupilha,RS,430790,-29.22,-51.34
+Campina Grande do Sul,PR,410400,-25.3,-49.05
+Lagoa do Piauí,PI,220558,-5.41,-42.64
+Palmares,PE,261000,-8.68,-35.59
+Candeias,BA,290650,-12.66,-38.55
+Araçatuba,SP,350280,-21.2,-50.43
+Joinville,SC,420910,-26.3,-48.84
+Barreiras,BA,290320,-12.15,-44.99
+Ouro Preto,MG,314610,-20.28,-43.5
+Tutóia,MA,211250,-2.76,-42.27
+Votuporanga,SP,355710,-20.42,-49.97
+Vitória da Conquista,BA,293330,-14.86,-40.83
+Angra dos Reis,RJ,330010,-23,-44.31
+Alhandra,PB,250060,-7.43,-34.91
+Messias,AL,270520,-9.38,-35.84
+Lages,SC,420930,-27.81,-50.32
+Itaúna,MG,313380,-20.07,-44.57
+Araruama,RJ,330020,-22.87,-42.34
+Iranduba,AM,130185,-3.28,-60.18
+Governador Celso Ramos,SC,420600,-27.31,-48.55
+Breu Branco,PA,150178,-4,-49.46
+Juquitiba,SP,352620,-23.93,-47.06
+Campo Grande,AL,270150,-9.95,-36.79
+Coari,AM,130120,-4.08,-63.14
+Itatiaiuçu,MG,313370,-20.19,-44.42
+Tabatinga,AM,130406,-4.25,-69.93
+Itaituba,PA,150360,-4.27,-55.98
+Beneditinos,PI,220160,-5.45,-42.36
+Santa Bárbara,BA,292750,-11.95,-38.97
+Concórdia,SC,420430,-27.23,-52.02
+Rio Acima,MG,315480,-20.08,-43.78
+São José de Mipibu,RN,241220,-6.07,-35.23
+Bebedouro,SP,350610,-20.94,-48.47
+Santa Rosa,RS,431720,-27.87,-54.48
+Ibiúna,SP,351970,-23.65,-47.22
+Marituba,PA,150442,-1.35,-48.34
+Brazabrantes,GO,520360,-16.43,-49.38
+Chapada dos Guimarães,MT,510300,-15.46,-55.75
+Petrolina,PE,261110,-9.39,-40.5
+Colatina,ES,320150,-19.53,-40.63
