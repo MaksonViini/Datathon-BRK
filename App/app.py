@@ -16,6 +16,9 @@ st.markdown("<h1 style='text-align: center; color: blue;'>Dados completos BRK</h
             unsafe_allow_html=True)
 st.markdown("<h4 style='text-align: center; color: blue;'>Dados completos BRK</h1>",
             unsafe_allow_html=True)
+st.image('Img/capa1.gif', output_format='gif')
+
+
 col1, col2 = st.columns(2)
 
 # Get data
@@ -91,6 +94,15 @@ fig.update_layout(
 fig.update_layout(margin={"r": 0, "t": 0, "l": 0, "b": 0})
 col2.plotly_chart(fig)
 
+
+# Filtrando os anos
+if year == 2019:
+    col1.subheader('Indicadores dos municípios')
+    col1.dataframe(data[data['Ano'] == year])
+    col2.subheader('Indicadores dos municípios filtrados')
+    col2.dataframe(filtered[filtered['Ano'] == year])
+else: st.dataframe(data[data['Ano'] == year])
+
 # Plot
 indicadores = st.sidebar.multiselect('Indicadores', data.columns[2:])
 plt.figure(figsize=(15, 8))
@@ -102,9 +114,3 @@ plt.figure(figsize=(15, 8))
 fig = px.line(municipios_filtered, x='Ano', y=indicadores, color='Município',)
 st.plotly_chart(fig, use_container_width=True)
 
-
-
-# Filtrando os anos
-
-col1.dataframe(data[data['Ano'] == year])
-col2.dataframe(filtered[filtered['Ano'] == year])
