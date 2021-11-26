@@ -14,7 +14,7 @@ def get_data(path):
 
 st.markdown("<h1 style='text-align: center; color: blue;'>Dados completos BRK</h1>",
             unsafe_allow_html=True)
-st.markdown("<h4 style='text-align: center; color: blue;'>Dados completos BRK</h1>",
+st.markdown("<h5 style='text-align: center; color: blue;'>Com intuito de promover uma análise rápida, a solução traz um compilado dos dados do Painel do Saneamento, e proporciona agilidade na comparação de indicadores, visualização de novos pontos de investimentos baseado no município de Uruguaiana, além de uma visualização rápida dos dados por ano.</h1>",
             unsafe_allow_html=True)
 st.image('Img/capa1.gif', output_format='gif')
 
@@ -33,6 +33,8 @@ filtered = get_data(path_new)
 filtered['Investimentos_per_capita_em_saneamento'] = filtered['Investimentos_per_capita_em_saneamento'].fillna(
     0)
 
+st.sidebar.title('Filtros')
+
 year = st.sidebar.slider('Ano', 2010, 2019, 2019)
 
 
@@ -49,12 +51,13 @@ municipio_brk = ['Rio de janeiro (Município)',
                  ]
 
 municipio = st.sidebar.multiselect('Municípios BRK', municipio_brk)
-municipios_new = st.sidebar.multiselect('Municípios Mapeados', filtered['Município'].unique().tolist())
+municipios_new = st.sidebar.multiselect(
+    'Municípios Mapeados', filtered['Município'].unique().tolist())
 municipios = data[data['Município'].isin(municipio)]
 municipios_filtered = data[data['Município'].isin(municipios_new)]
 
 # Mapas
-col1.subheader('Municípios')
+col1.markdown("<h3 style='text-align: center; color: blue;'>Municípios</h1>", unsafe_allow_html=True)
 fig = px.scatter_mapbox(data, lat="lat", lon="lng", size='Investimentos_per_capita_em_saneamento', hover_name="Município",
                         color_discrete_sequence=["blue"], zoom=3, height=800)
 fig.update_layout(mapbox_style="open-street-map")
@@ -74,7 +77,7 @@ fig.update_layout(
 fig.update_layout(margin={"r": 0, "t": 0, "l": 0, "b": 0})
 col1.plotly_chart(fig)
 
-col2.subheader('Novas Uruguaianas em 2019')
+col2.markdown("<h3 style='text-align: center; color: blue;'>Municípios mapeados (2019)</h1>", unsafe_allow_html=True)
 fig = px.scatter_mapbox(filtered, lat="lat", lon="lng", size='Investimentos_per_capita_em_saneamento', hover_name="Município",
                         color_discrete_sequence=["blue"], zoom=3, height=800)
 fig.update_layout(mapbox_style="open-street-map")
@@ -101,16 +104,19 @@ if year == 2019:
     col1.dataframe(data[data['Ano'] == year])
     col2.subheader('Indicadores dos municípios filtrados')
     col2.dataframe(filtered[filtered['Ano'] == year])
-else: st.dataframe(data[data['Ano'] == year])
+else:
+    st.dataframe(data[data['Ano'] == year])
 
 # Plot
 indicadores = st.sidebar.multiselect('Indicadores', data.columns[2:])
+st.markdown("<h3 style='text-align: center; color: blue;'>Comparação de indicadores</h1>", unsafe_allow_html=True)
+
 plt.figure(figsize=(15, 8))
 fig = px.line(municipios, x='Ano', y=indicadores, color='Município',)
 st.plotly_chart(fig, use_container_width=True)
 
 
 plt.figure(figsize=(15, 8))
-fig = px.line(municipios_filtered, x='Ano', y=indicadores, color='Município',)
-st.plotly_chart(fig, use_container_width=True)
+fig = px.line(municipios_filtered, x='Ano', y=indicadores, color='Município', line_shape='spline')
 
+st.plotly_chart(fig, use_container_width=True)
