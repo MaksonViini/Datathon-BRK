@@ -19,8 +19,9 @@ st.markdown("<h4 style='text-align: center; color: blue;'>Dados completos BRK</h
 col1, col2 = st.columns(2)
 
 # Get data
-path = '/home/maksonvinicio/Documents/GitHub/Datathon-BRK/Data/all_data.csv'
-path_new = '/home/maksonvinicio/Documents/GitHub/Datathon-BRK/Data/data_filtered_new_uruguaiana.csv'
+path = 'Data/all_data.csv'
+path_new = 'Data/data_filtered_new_uruguaiana.csv'
+
 
 data = get_data(path)
 data['Investimentos_per_capita_em_saneamento'] = data['Investimentos_per_capita_em_saneamento'].fillna(
