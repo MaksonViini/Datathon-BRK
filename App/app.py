@@ -2,6 +2,7 @@ import streamlit as st
 import pandas as pd
 import plotly.express as px
 import matplotlib.pyplot as plt
+from sklearn.preprocessing import MinMaxScaler
 
 st.set_option('deprecation.showPyplotGlobalUse', False)
 st.set_page_config(layout='wide')
@@ -29,9 +30,15 @@ path_new = 'Data/data_filtered_new_uruguaiana.csv'
 data = get_data(path)
 data['Investimentos_per_capita_em_saneamento'] = data['Investimentos_per_capita_em_saneamento'].fillna(
     0)
+data[data['Volume_de_esgoto_não_tratado'] <= 0] = 0
+minmax = MinMaxScaler()
+data.iloc[:, 2:-2] = minmax.fit_transform(data.iloc[:, 2:-2])
+
 filtered = get_data(path_new)
 filtered['Investimentos_per_capita_em_saneamento'] = filtered['Investimentos_per_capita_em_saneamento'].fillna(
     0)
+
+filtered.iloc[:, 2:-2] = minmax.fit_transform(filtered.iloc[:, 2:-2])
 
 st.sidebar.title('Filtros')
 
@@ -50,9 +57,9 @@ municipio_brk = ['Rio de janeiro (Município)',
                  'Olinda (Município)',
                  ]
 
-municipio = st.sidebar.multiselect('Municípios BRK', municipio_brk)
+municipio = st.sidebar.multiselect('Municípios BRK', sorted(municipio_brk))
 municipios_new = st.sidebar.multiselect(
-    'Municípios Mapeados', filtered['Município'].unique().tolist())
+    'Municípios Mapeados', sorted(filtered['Município'].unique().tolist()))
 municipios = data[data['Município'].isin(municipio)]
 municipios_filtered = data[data['Município'].isin(municipios_new)]
 
@@ -108,7 +115,7 @@ else:
     st.dataframe(data[data['Ano'] == year])
 
 # Plot
-indicadores = st.sidebar.multiselect('Indicadores', data.columns[2:])
+indicadores = st.sidebar.multiselect('Indicadores', data.columns[2:-2])
 st.markdown("<h3 style='text-align: center; color: blue;'>Comparação de indicadores</h1>", unsafe_allow_html=True)
 
 plt.figure(figsize=(15, 8))
