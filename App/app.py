@@ -38,7 +38,7 @@ filtered = get_data(path_new)
 filtered['Investimentos_per_capita_em_saneamento'] = filtered['Investimentos_per_capita_em_saneamento'].fillna(
     0)
 
-filtered.iloc[:, 2:-2] = minmax.fit_transform(filtered.iloc[:, 2:-2])
+filtered.iloc[:, 2:-2] = minmax.transform(filtered.iloc[:, 2:-2])
 
 st.sidebar.title('Filtros')
 
